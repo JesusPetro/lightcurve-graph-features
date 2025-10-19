@@ -99,7 +99,7 @@ The project relies on the following key libraries:
 Key results include:
 
 - **Performance Metrics:** PR-AUC, Confusion Matrix (counts and percentages).
-- **Feature Importance:** Top-ranked features obtained via `LightGBM` and `XGBoost`.
+- **Feature Importance:** Top-ranked features obtained
 - **Visualizations:** Precision-Recall curves and confusion matrix plots.
 
 ---
