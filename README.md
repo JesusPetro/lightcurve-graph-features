@@ -49,7 +49,7 @@ All content is provided in Jupyter Notebooks (`.ipynb`), organized into logical 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/<username>/lightcurve-graph-features.git
+   git clone https://github.com/JesusPetro/lightcurve-graph-features.git
    cd lightcurve-graph-features
    ```
 
