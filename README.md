@@ -106,6 +106,6 @@ Key results include:
 
 ## 👨‍💻 Author
 
-**Lead Author:** David Sierra Porta\
-**Contact:** dporta@utb.edu.co  
+**Authors:** Jesus David Petro Ramos and D. Sierra Porta\
+**Contact:** jpetro@utb.edu.co and dporta@utb.edu.co  
 **Institution:** Universidad Tecnológica de Bolívar
